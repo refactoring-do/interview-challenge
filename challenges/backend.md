@@ -30,12 +30,12 @@ Let's pretend we launched the new Social Media for a Secret Society. Your first 
 
 ### Which technologies can you use?
 
-- **Programming language** (choose one): JavaScript, TypeScript, C#, Python, Java, Rust.
+- **Programming language** (choose one): JavaScript, TypeScript, C#, Python, Java, Go or Rust.
 - **Database (NoSQL)**: MongoDB, DynamoDB, Azure CosmosDB, Elasticsearch.
 - **Database (SQL)**: Postgres, MSSQL.
 - **Software Principles**: SOLID, Clean Code.
 - **Version control**: Git + GitHub
-- **Containerization**: Docker
+- **Container runtime**: Docker
 
 ### Step One
 
